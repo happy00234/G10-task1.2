@@ -1,3 +1,4 @@
 mens section
 Womens section
 kids section
+footwear section
